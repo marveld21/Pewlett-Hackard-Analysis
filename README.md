@@ -4,4 +4,6 @@
 
  ## Results
  ### Retirement Titles
- ![Retirement_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/mentorship_eligibility.PNG?raw=true)
+ ![Retirement_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retirement_titles.PNG?raw=true)
+ ### Unique Titles
+ ![Unique_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/unique_titles.PNG?raw=true)
