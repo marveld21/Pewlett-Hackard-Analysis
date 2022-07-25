@@ -4,10 +4,18 @@
 
  ## Results
  ### Retirement Titles
+ #### Table to show us employees of retirement age.
  ![Retirement_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retirement_titles.PNG?raw=true)
  ### Unique Titles
+ #### Table to show us only most recent title and only if they are still employeed.
  ![Unique_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/unique_titles.PNG?raw=true)
  ### Retiring Titles
- ![Retiring_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retiring_titles.PNG?raw=true)
+ #### This table shows us where we need to focus our efforts in replacement.
+ ![Retiring_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retiring_titles.PNG?raw=true) 
 ### Mentorship Eligibility
+#### Here is a list of workers who are eiligible for the mentorship program.
  ![Mentorship Eligibility](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/mentorship_eligibility.PNG?raw=true)
+
+ ## Summary
+ * There are 53977 retiring titles
+ * There are only 1549 eligible mentors
