@@ -8,6 +8,6 @@
  ### Unique Titles
  ![Unique_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/unique_titles.PNG?raw=true)
  ### Retiring Titles
- ![Retiring_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/Retiring_titles.PNG?raw=true)
+ ![Retiring_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retiring_titles.PNG?raw=true)
 ### Mentorship Eligibility
  ![Mentorship Eligibility](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/mentorship_eligibility.PNG?raw=true)
