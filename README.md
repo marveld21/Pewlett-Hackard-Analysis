@@ -3,8 +3,8 @@
  ### We were asked to help with the upcoming “silver tsunami" a wave of retirements from a company called Pewlett Hackard. We can prepare by analyzing and employee database and finding the number of retirees by job title and identifying employees for mentorship program.
 
  ## Results
- ### *Retirement Titles
-#### Table to show us employees of retirement age.
+ * Retirement Titles
+ #### Table to show us employees of retirement age.
  ![Retirement_Titles](https://github.com/marveld21/Pewlett-Hackard-Analysis/blob/main/PNGS/retirement_titles.PNG?raw=true)
  ### Unique Titles
  #### Table to show us only most recent title and only if they are still employeed.
